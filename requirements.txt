@@ -1,0 +1,9 @@
+google-search-results  # SerpApi
+requests
+docling  # PDF to Markdown
+transformers  # For SPECTER2
+torch
+chromadb
+llama-index # For RAG with GPT-40 mini
+python-dotenv
+pytest
